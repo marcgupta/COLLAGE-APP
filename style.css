@@ -93,6 +93,12 @@ body {
         }
 
         .final {
+            border-radius: 0px;
+            margin-bottom: 35px;
+            margin-top: 10px;
+          }
+
+ .final :hover {
             border-radius: 8px;
             margin-bottom: 35px;
             margin-top: 10px;
